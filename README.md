@@ -28,15 +28,3 @@ Versionamento: Git & GitHub
 
 Outros: Lógica, Algoritmos, Estruturas de Dados
 
-📂 Projetos no repositório
-
-
-Aqui você vai encontrar projetos feitos na faculdade, exercícios de programação e alguns testes pessoais enquanto estudo.
-
-Sinta-se à vontade para explorar, sugerir melhorias e acompanhar minha evolução! 🚀
-
-📫 Como me encontrar
-
-💼 LinkedIn: coloque aqui seu link
-
-✉️ Email: coloque aqui seu email
